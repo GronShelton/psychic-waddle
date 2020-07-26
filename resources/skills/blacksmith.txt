@@ -1,8 +1,8 @@
 % cup	1	20	1	1	GenEmptyDrink	LIQUID	5	
 % bowl	1	20	1	1	GenEmptyDrink	LIQUID|EATABLES	6	
 % key ring	2	10	1	1	GenContainer	KEYS	100	
-% pickaxe	3	30	5	25	GenItem			*Prop_ImproveGather;amt=2 skills=Mining,MasterMining
-% lumberjack saw	3	30	5	25	GenItem			*Prop_ImproveGather;amt=2 skills=Chopping,MasterChopping
+% pickaxe 3 30  5 25  GenItem   *Prop_ImproveGather;amt=2 skills=Mining,MasterMining  
+% lumberjack saw	3	30	5	25	GenItem   *Prop_ImproveGather;amt=2 skills=Chopping,MasterChopping  
 % plate	4	20	1	4	GenContainer	EATABLES	5	
 % mug	5	20	1	5	GenEmptyDrink	LIQUID	5	
 % pot	5	30	2	15	GenEmptyDrink	LIQUID|EATABLES|RAWMATERIALS	15	
